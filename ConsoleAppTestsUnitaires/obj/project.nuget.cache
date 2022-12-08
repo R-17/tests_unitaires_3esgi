@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "dSxwZ/k+PoACaCAJ4fI/QzPYRshPuem9xj/8mwpNPsGS/21lslMqoolYAqBwaY6XobpxjlzUsvMckAMWu/WIMg==",
+  "dgSpecHash": "NimS/x7bTnsh8erkYeH6rhxop54y5LNbmef4iYh/Fk0SAhSYLetceR+AND5/uLQepWQh8kpxnJPLqOaz6q3IhA==",
   "success": true,
   "projectFilePath": "C:\\Users\\Raphael\\source\\repos\\SolutionTestUnitaires\\ConsoleAppTestsUnitaires\\ConsoleAppTestsUnitaires.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Raphael\\.nuget\\packages\\newtonsoft.json\\13.0.2\\newtonsoft.json.13.0.2.nupkg.sha512"
+  ],
   "logs": []
 }

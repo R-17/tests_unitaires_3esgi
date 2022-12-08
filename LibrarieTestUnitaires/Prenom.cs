@@ -6,16 +6,17 @@ namespace LibrarieTestUnitaires
     {
         private string prenom;
 
+        public Prenom(string prenom)
+        {
+            this.prenom = prenom;
+        }
+
         public string unPrenom
         {
             get { return prenom; }
             set { prenom = value; }
         }
 
-        public Prenom(string prenom)
-        {
-            this.prenom = prenom;
-        }
 
         public string HelloPrenom()
         {

@@ -15,3 +15,4 @@ C:\Users\Raphael\source\repos\SolutionTestUnitaires\ConsoleAppTestsUnitaires\obj
 C:\Users\Raphael\source\repos\SolutionTestUnitaires\ConsoleAppTestsUnitaires\obj\Debug\netcoreapp3.1\ConsoleAppTestsUnitaires.dll
 C:\Users\Raphael\source\repos\SolutionTestUnitaires\ConsoleAppTestsUnitaires\obj\Debug\netcoreapp3.1\ConsoleAppTestsUnitaires.pdb
 C:\Users\Raphael\source\repos\SolutionTestUnitaires\ConsoleAppTestsUnitaires\obj\Debug\netcoreapp3.1\ConsoleAppTestsUnitaires.genruntimeconfig.cache
+C:\Users\Raphael\source\repos\SolutionTestUnitaires\ConsoleAppTestsUnitaires\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
