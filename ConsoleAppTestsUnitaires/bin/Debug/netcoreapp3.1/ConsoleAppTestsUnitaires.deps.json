@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "ConsoleAppTestsUnitaires/1.0.0": {
+        "dependencies": {
+          "LibrarieTestUnitaires": "1.0.0"
+        },
+        "runtime": {
+          "ConsoleAppTestsUnitaires.dll": {}
+        }
+      },
+      "LibrarieTestUnitaires/1.0.0": {
+        "runtime": {
+          "LibrarieTestUnitaires.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ConsoleAppTestsUnitaires/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "LibrarieTestUnitaires/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

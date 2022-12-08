@@ -1,0 +1,10 @@
+C:\Users\Raphael\source\repos\SolutionTestUnitaires\LibrarieTestUnitaires\bin\Debug\netcoreapp3.1\LibrarieTestUnitaires.deps.json
+C:\Users\Raphael\source\repos\SolutionTestUnitaires\LibrarieTestUnitaires\bin\Debug\netcoreapp3.1\LibrarieTestUnitaires.dll
+C:\Users\Raphael\source\repos\SolutionTestUnitaires\LibrarieTestUnitaires\bin\Debug\netcoreapp3.1\LibrarieTestUnitaires.pdb
+C:\Users\Raphael\source\repos\SolutionTestUnitaires\LibrarieTestUnitaires\obj\Debug\netcoreapp3.1\LibrarieTestUnitaires.csproj.AssemblyReference.cache
+C:\Users\Raphael\source\repos\SolutionTestUnitaires\LibrarieTestUnitaires\obj\Debug\netcoreapp3.1\LibrarieTestUnitaires.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Raphael\source\repos\SolutionTestUnitaires\LibrarieTestUnitaires\obj\Debug\netcoreapp3.1\LibrarieTestUnitaires.AssemblyInfoInputs.cache
+C:\Users\Raphael\source\repos\SolutionTestUnitaires\LibrarieTestUnitaires\obj\Debug\netcoreapp3.1\LibrarieTestUnitaires.AssemblyInfo.cs
+C:\Users\Raphael\source\repos\SolutionTestUnitaires\LibrarieTestUnitaires\obj\Debug\netcoreapp3.1\LibrarieTestUnitaires.csproj.CoreCompileInputs.cache
+C:\Users\Raphael\source\repos\SolutionTestUnitaires\LibrarieTestUnitaires\obj\Debug\netcoreapp3.1\LibrarieTestUnitaires.dll
+C:\Users\Raphael\source\repos\SolutionTestUnitaires\LibrarieTestUnitaires\obj\Debug\netcoreapp3.1\LibrarieTestUnitaires.pdb
