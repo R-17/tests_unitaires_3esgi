@@ -20,6 +20,11 @@ namespace ConsoleAppTestsUnitaires
             Console.WriteLine("==========================================");
             Swapi unSwapi = new Swapi();
             unSwapi.AvoirFilmsAvecLuke();
+            foreach(string film in unSwapi.Films)
+            {
+                Console.WriteLine(film);
+            }
+            
         }
     }
 }

@@ -26,6 +26,7 @@ namespace TestsUnitairesMSTest
         public void Prenom_Bon()
         {
             Prenom unPrenom = new Prenom("Raphaël");
+
             string actuel = unPrenom.HelloPrenom();
 
             Assert.AreEqual("Hello Raphaël", actuel);
